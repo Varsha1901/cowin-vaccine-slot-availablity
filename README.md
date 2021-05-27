@@ -1,4 +1,4 @@
-# CoWIN vaccination slot availability using Python
+# CoWIN vaccination slot availability using Python ( a clone of CoWIN vaccination slot availability by bhavesh Bhatt)
 
 Script to check the available slots for Covid-19 Vaccination Centers from CoWIN API in India. This CANNOT book slots automatically. The Indian Government had blocked the API for crawlers, but we are good to go.
 
